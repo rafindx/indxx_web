@@ -1,0 +1,23 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-25 17:40:13 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 17:40:13 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2021-08-25 17:40:17 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 17:40:19 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 17:40:43 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 18:43:28 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 18:43:28 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2021-08-25 18:43:31 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 18:48:27 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 18:48:59 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 18:49:03 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 18:49:18 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-08-25 21:17:10 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2021-08-25 21:17:10 --> Query error: Unknown column '318RYLDGlobal' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 318RYLDGlobal
+ERROR - 2021-08-25 21:17:10 --> Query error: Unknown column '238GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 238GLOBAL
+ERROR - 2021-08-25 21:17:23 --> Query error: Unknown column '238GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 238GLOBAL
+ERROR - 2021-08-25 21:17:24 --> Query error: Unknown column '318RYLDGlobal' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 318RYLDGlobal
+ERROR - 2021-08-25 21:17:24 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2021-08-25 21:17:43 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2021-08-25 21:17:43 --> Query error: Unknown column '318RYLDGlobal' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 318RYLDGlobal
+ERROR - 2021-08-25 21:17:43 --> Query error: Unknown column '238GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 238GLOBAL

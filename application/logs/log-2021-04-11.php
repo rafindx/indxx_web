@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-11 07:09:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 
+ERROR - 2021-04-11 11:07:09 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 11:07:53 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 11:08:15 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 11:09:42 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 11:35:22 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 12:01:20 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 12:02:34 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 13:45:03 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 16:17:36 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 16:24:45 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 16:25:05 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 16:25:13 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90
+ERROR - 2021-04-11 16:25:17 --> Query error: Unknown column '3Cbr' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 752%3Cbr%3E%EB%B0%91%EC%97%90

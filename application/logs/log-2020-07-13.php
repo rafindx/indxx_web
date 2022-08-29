@@ -1,0 +1,75 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-13 19:28:03 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:28:03 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2020-07-13 19:28:36 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:29:21 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:29:51 --> Severity: Notice --> Trying to get property 'name' of non-object /home/indxx/public_html/indxx.com/application/controllers/Admin.php 825
+ERROR - 2020-07-13 19:29:51 --> Severity: Notice --> Trying to get property 'return_type' of non-object /home/indxx/public_html/indxx.com/application/controllers/Admin.php 825
+ERROR - 2020-07-13 19:31:34 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:31:44 --> Severity: Notice --> Trying to get property 'name' of non-object /home/indxx/public_html/indxx.com/application/controllers/Admin.php 825
+ERROR - 2020-07-13 19:31:44 --> Severity: Notice --> Trying to get property 'return_type' of non-object /home/indxx/public_html/indxx.com/application/controllers/Admin.php 825
+ERROR - 2020-07-13 19:32:08 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:32:20 --> Severity: Notice --> Trying to get property 'name' of non-object /home/indxx/public_html/indxx.com/application/controllers/Admin.php 825
+ERROR - 2020-07-13 19:32:20 --> Severity: Notice --> Trying to get property 'return_type' of non-object /home/indxx/public_html/indxx.com/application/controllers/Admin.php 825
+ERROR - 2020-07-13 19:32:33 --> Severity: Notice --> Trying to get property 'name' of non-object /home/indxx/public_html/indxx.com/application/controllers/Admin.php 825
+ERROR - 2020-07-13 19:32:33 --> Severity: Notice --> Trying to get property 'return_type' of non-object /home/indxx/public_html/indxx.com/application/controllers/Admin.php 825
+ERROR - 2020-07-13 19:33:25 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:33:45 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:34:49 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:35:54 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:37:01 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 19:51:43 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:10:32 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:11:12 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:11:57 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:12:53 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:14:18 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:17:04 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:20:54 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:33:19 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:33:39 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:58:36 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 20:59:46 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:00:00 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:05:25 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:06:05 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:06:52 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:07:27 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:07:49 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:08:11 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:48:56 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:48:56 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2020-07-13 21:49:02 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:51:04 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:51:05 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:51:19 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:51:20 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:51:35 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:51:36 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:52:07 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:52:07 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:52:36 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:52:37 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:52:59 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:53:00 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:53:25 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:53:25 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:53:50 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:53:50 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:54:14 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:54:15 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:54:35 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:54:35 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:54:57 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:54:58 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:55:22 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:55:22 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:55:35 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:55:36 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 21:55:48 --> Severity: Notice --> Undefined variable: indexx /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1925
+ERROR - 2020-07-13 21:55:49 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 22:23:45 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 22:50:04 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 23:26:20 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-07-13 23:28:01 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15

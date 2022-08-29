@@ -1,0 +1,226 @@
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/indxx/public_html/indxx_new/Scripts/update.php on line 4
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 5
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 31
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 34
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 37
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 40
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 43
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 53
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 54
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 72
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 73
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 86
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 90
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 91
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 101
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 102
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 117
+[24-Sep-2018 11:17:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 118
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/indxx/public_html/indxx_new/Scripts/update.php on line 4
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 5
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 31
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 34
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 37
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 40
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 43
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 53
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 54
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 72
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 73
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 86
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 90
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 91
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 101
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 102
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 117
+[24-Sep-2018 11:17:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 118
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Login - Adminer'@'localhost' (using password: YES) in /home/indxx/public_html/indxx_new/Scripts/update.php on line 4
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 5
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 31
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 34
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 37
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 40
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 43
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 53
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 54
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 72
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 73
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 86
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 90
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 91
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 101
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 102
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 117
+[24-Sep-2018 11:18:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/indxx/public_html/indxx_new/Scripts/update.php on line 118
+[24-Sep-2018 11:19:30 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[24-Sep-2018 11:19:30 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[24-Sep-2018 11:50:33 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 11:50:33 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 11:50:33 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 11:50:33 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 11:50:33 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 11:50:33 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 11:50:33 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[24-Sep-2018 14:16:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/indxx/public_html/indxx_new/Scripts/altertable.php on line 2
+[24-Sep-2018 14:16:35 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/altertable.php on line 3
+[24-Sep-2018 14:16:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/indxx/public_html/indxx_new/Scripts/altertable.php on line 9
+[24-Sep-2018 14:34:03 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 14:34:03 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 14:34:03 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 14:34:03 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 14:34:03 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 14:34:03 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 14:34:03 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[24-Sep-2018 14:34:43 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 14:34:43 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 14:34:43 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 14:34:43 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 14:34:43 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 14:34:43 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 14:34:43 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[24-Sep-2018 14:34:46 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 14:34:46 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 14:34:46 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 14:34:46 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 14:34:46 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 14:34:46 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 14:34:46 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[24-Sep-2018 14:39:37 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 14:39:37 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 14:39:37 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 14:39:37 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 14:39:37 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 14:39:37 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 14:39:37 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[24-Sep-2018 14:40:03 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 14:40:03 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 14:40:03 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 14:40:03 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 14:40:03 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 14:40:03 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 14:40:03 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[24-Sep-2018 14:40:04 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 14:40:04 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 14:40:04 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 14:40:04 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 14:40:04 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 14:40:04 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 14:40:04 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[24-Sep-2018 14:42:27 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 14:42:27 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 14:42:27 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 14:42:27 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 14:42:27 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 14:42:27 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 14:42:27 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[24-Sep-2018 14:50:35 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[24-Sep-2018 14:50:35 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[24-Sep-2018 14:50:35 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[24-Sep-2018 14:50:35 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[24-Sep-2018 14:50:35 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[24-Sep-2018 14:50:35 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[24-Sep-2018 14:50:35 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[26-Sep-2018 07:23:47 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[26-Sep-2018 07:23:47 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[26-Sep-2018 07:23:47 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[26-Sep-2018 07:23:47 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[26-Sep-2018 07:23:47 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[26-Sep-2018 07:23:47 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[26-Sep-2018 07:23:47 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[26-Sep-2018 07:26:20 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[26-Sep-2018 07:26:20 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[26-Sep-2018 07:26:20 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[26-Sep-2018 07:26:20 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[26-Sep-2018 07:26:20 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[26-Sep-2018 07:26:20 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[26-Sep-2018 07:26:20 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[26-Sep-2018 07:33:26 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[26-Sep-2018 07:33:26 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[26-Sep-2018 07:33:26 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[26-Sep-2018 07:33:26 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[26-Sep-2018 07:33:26 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[26-Sep-2018 07:33:26 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[26-Sep-2018 07:33:26 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[26-Sep-2018 07:34:26 UTC] PHP Notice:  Undefined index: amount in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 23
+[26-Sep-2018 07:34:26 UTC] PHP Notice:  Undefined index: description in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 26
+[26-Sep-2018 07:34:26 UTC] PHP Notice:  Undefined index: type in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 27
+[26-Sep-2018 07:34:26 UTC] PHP Notice:  Undefined index: reference in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 28
+[26-Sep-2018 07:34:26 UTC] PHP Notice:  Undefined index: first_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 29
+[26-Sep-2018 07:34:26 UTC] PHP Notice:  Undefined index: last_name in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 30
+[26-Sep-2018 07:34:26 UTC] PHP Notice:  Undefined index: email in /home/indxx/public_html/indxx_new/Scripts/pesapa.php on line 31
+[26-Sep-2018 15:19:10 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:19:10 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:19:10 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[26-Sep-2018 15:19:26 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:19:26 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:19:26 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[26-Sep-2018 15:19:45 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:19:45 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:19:45 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[26-Sep-2018 15:20:16 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:20:16 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:20:16 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[26-Sep-2018 15:20:33 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:20:33 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[26-Sep-2018 15:20:33 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[27-Sep-2018 04:10:16 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:10:16 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:10:16 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[27-Sep-2018 04:45:47 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:45:47 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:45:47 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[27-Sep-2018 04:45:58 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:45:58 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:45:58 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[27-Sep-2018 04:46:15 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:46:15 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:46:15 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[27-Sep-2018 04:46:17 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:46:17 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:46:17 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[27-Sep-2018 04:46:18 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:46:18 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:46:18 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[27-Sep-2018 04:46:19 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:46:19 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[27-Sep-2018 04:46:19 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/indxx_new/Scripts/update.php on line 154
+[02-Oct-2018 06:15:41 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:15:41 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:20:03 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:20:03 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:21:59 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:21:59 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:24:00 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:24:00 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:24:03 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:24:03 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:24:22 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:24:22 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:28:05 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:28:05 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:28:46 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:28:46 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:30:00 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:30:00 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:30:43 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[02-Oct-2018 06:30:43 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/indxx_new/Scripts/update.php on line 3
+[13-Oct-2018 06:22:12 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/live/Scripts/update.php on line 3
+[13-Oct-2018 06:22:12 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/live/Scripts/update.php on line 3
+[13-Oct-2018 06:22:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/indxx/public_html/live/Scripts/update.php on line 58
+[13-Oct-2018 06:23:59 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/live/Scripts/update.php on line 154
+[13-Oct-2018 07:00:14 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/live/Scripts/update.php on line 3
+[13-Oct-2018 07:00:14 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/live/Scripts/update.php on line 3
+[13-Oct-2018 07:00:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/indxx/public_html/live/Scripts/update.php on line 58
+[13-Oct-2018 07:02:11 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/live/Scripts/update.php on line 154
+[13-Oct-2018 07:47:16 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/live/Scripts/update.php on line 3
+[13-Oct-2018 07:47:16 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/live/Scripts/update.php on line 3
+[13-Oct-2018 07:49:27 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/live/Scripts/update.php on line 154
+[13-Oct-2018 07:55:00 UTC] PHP Warning:  include(newfunction.php): failed to open stream: No such file or directory in /home/indxx/public_html/live/Scripts/update.php on line 3
+[13-Oct-2018 07:55:00 UTC] PHP Warning:  include(): Failed opening 'newfunction.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/indxx/public_html/live/Scripts/update.php on line 3
+[13-Oct-2018 07:57:52 UTC] PHP Fatal error:  Call to undefined function getIndexRiskReturns() in /home/indxx/public_html/live/Scripts/update.php on line 154

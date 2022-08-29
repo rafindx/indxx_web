@@ -1,0 +1,24 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-27 00:13:47 --> Query error: Column 'name' cannot be null - Invalid query: INSERT INTO `tbl_conact_us` (`name`, `compnay`, `phone_number`, `email`, `question`) VALUES (NULL, NULL, NULL, NULL, NULL)
+ERROR - 2021-07-27 12:08:22 --> Query error: Column 'full_name' cannot be null - Invalid query: INSERT INTO `tbl_candidate_applyed` (`full_name`, `email`, `phone_number`, `apply_for`, `file`) VALUES (NULL, NULL, NULL, NULL, '')
+ERROR - 2021-07-27 12:08:22 --> Query error: Column 'full_name' cannot be null - Invalid query: INSERT INTO `tbl_candidate_applyed` (`full_name`, `email`, `phone_number`, `apply_for`, `file`) VALUES (NULL, NULL, NULL, NULL, '')
+ERROR - 2021-07-27 12:08:22 --> Query error: Column 'full_name' cannot be null - Invalid query: INSERT INTO `tbl_candidate_applyed` (`full_name`, `email`, `phone_number`, `apply_for`, `file`) VALUES (NULL, NULL, NULL, NULL, '')
+ERROR - 2021-07-27 12:08:22 --> Query error: Column 'full_name' cannot be null - Invalid query: INSERT INTO `tbl_candidate_applyed` (`full_name`, `email`, `phone_number`, `apply_for`, `file`) VALUES (NULL, NULL, NULL, NULL, '')
+ERROR - 2021-07-27 12:08:22 --> Query error: Column 'full_name' cannot be null - Invalid query: INSERT INTO `tbl_candidate_applyed` (`full_name`, `email`, `phone_number`, `apply_for`, `file`) VALUES (NULL, NULL, NULL, NULL, '')
+ERROR - 2021-07-27 12:08:22 --> Query error: Column 'full_name' cannot be null - Invalid query: INSERT INTO `tbl_candidate_applyed` (`full_name`, `email`, `phone_number`, `apply_for`, `file`) VALUES (NULL, NULL, NULL, NULL, '')
+ERROR - 2021-07-27 14:40:07 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 14:40:07 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2021-07-27 15:25:05 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 15:25:19 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 15:28:55 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 16:47:59 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 16:47:59 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2021-07-27 16:48:03 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 19:21:21 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 19:21:21 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2021-07-27 19:21:24 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 19:21:27 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 19:26:00 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 19:26:03 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2021-07-27 19:26:22 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15

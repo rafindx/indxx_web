@@ -1,0 +1,21 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-09 13:20:16 --> Query error: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '=' - Invalid query: select id from indxx where name ='仿制药'
+ERROR - 2020-12-09 17:21:37 --> Query error: Unknown column 'E2' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 372%E2%80%AC%E2%80%AC
+ERROR - 2020-12-09 17:23:40 --> Query error: Unknown column 'E2' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 372%E2%80%AC%E2%80%AC
+ERROR - 2020-12-09 17:27:46 --> Query error: Unknown column 'E2' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 372%E2%80%AC%E2%80%AC
+ERROR - 2020-12-09 17:38:52 --> Query error: Unknown column 'E2' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 372%E2%80%AC%E2%80%AC
+ERROR - 2020-12-09 17:54:48 --> Query error: Unknown column 'E2' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 372%E2%80%AC%E2%80%AC
+ERROR - 2020-12-09 18:10:18 --> Query error: Unknown column 'E2' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 372%E2%80%AC%E2%80%AC
+ERROR - 2020-12-09 18:12:03 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-12-09 18:12:03 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2020-12-09 18:13:18 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-12-09 18:13:34 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1607
+ERROR - 2020-12-09 18:20:15 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1607
+ERROR - 2020-12-09 18:20:24 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-12-09 18:20:33 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1607
+ERROR - 2020-12-09 18:23:49 --> Query error: MySQL server has gone away - Invalid query: SELECT * FROM index_description  join indxx   on  index_description.index_type = 'Benchmark'  and index_description.indxx_id= indxx.id AND indxx.weighttype = 1  AND indxx.productlist = 1  ORDER BY index_description.id DESC
+ERROR - 2020-12-09 18:23:49 --> Query error: MySQL server has gone away - Invalid query: SELECT * FROM index_description  join indxx   on  index_description.index_type = 'Benchmark'  and index_description.indxx_id= indxx.id AND indxx.weighttype = 1  AND indxx.productlist = 1  ORDER BY index_description.id DESC
+ERROR - 2020-12-09 18:23:49 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1607
+ERROR - 2020-12-09 18:23:54 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2020-12-09 18:23:57 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15

@@ -1,0 +1,13 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-29 05:04:43 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 05:04:43 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 05:04:43 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 05:04:43 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 05:04:44 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 05:04:44 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 05:05:16 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 05:06:12 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 05:09:24 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 06:56:18 --> Query error: Unknown column '2686640478GLOBAL' in 'where clause' - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 2686640478GLOBAL
+ERROR - 2019-10-29 10:27:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 

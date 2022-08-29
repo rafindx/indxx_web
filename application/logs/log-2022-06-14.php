@@ -1,0 +1,23 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-14 02:26:27 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:27:32 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:27:36 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:28:57 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:29:00 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:29:55 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:30:01 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:30:22 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:32:54 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 02:33:09 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/indxx/public_html/indxx.com/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 2022-06-14 11:02:53 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2022-06-14 11:02:53 --> Severity: Notice --> Undefined variable: latters /home/indxx/public_html/indxx.com/application/views/admin/home.php 104
+ERROR - 2022-06-14 11:03:12 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2022-06-14 11:03:14 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2022-06-14 11:03:47 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2022-06-14 13:29:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 
+ERROR - 2022-06-14 15:05:32 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home/indxx/public_html/indxx.com/application/controllers/Admin.php 1718
+ERROR - 2022-06-14 15:05:51 --> Severity: Warning --> Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) /home/indxx/public_html/indxx.com/application/views/admin/sidebar.php 15
+ERROR - 2022-06-14 17:26:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 
+ERROR - 2022-06-14 21:44:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 
+ERROR - 2022-06-14 23:12:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT a.*,b.return_type FROM indxx a, index_description b WHERE a.id = b.indxx_id AND a.id = 

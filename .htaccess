@@ -1,0 +1,16 @@
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php/$1 [PT,L]
+
+
+
+
+Header set X-Frame-Options: "DENY"
+
+
+order deny,allow
+allow from all
+
